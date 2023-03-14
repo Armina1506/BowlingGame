@@ -1,5 +1,0 @@
-C:\Users\Ejer\Desktop\BowlingGameApp\BowlingGameApp\obj\Debug\net6.0\BowlingGameApp.csproj.AssemblyReference.cache
-C:\Users\Ejer\Desktop\BowlingGameApp\BowlingGameApp\obj\Debug\net6.0\BowlingGameApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ejer\Desktop\BowlingGameApp\BowlingGameApp\obj\Debug\net6.0\BowlingGameApp.AssemblyInfoInputs.cache
-C:\Users\Ejer\Desktop\BowlingGameApp\BowlingGameApp\obj\Debug\net6.0\BowlingGameApp.AssemblyInfo.cs
-C:\Users\Ejer\Desktop\BowlingGameApp\BowlingGameApp\obj\Debug\net6.0\BowlingGameApp.csproj.CoreCompileInputs.cache
